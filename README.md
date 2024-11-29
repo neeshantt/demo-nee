@@ -1,4 +1,4 @@
 # demo-nee
 This is my first git repository!!
 <br>
-author-Nishant Thakur
+Author-Nishant Thakur
